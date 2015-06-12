@@ -1,0 +1,5 @@
+12 Jun 2015 14:07:58,764 INFO  ~ Starting C:\Users\u044228\play-1.2.7.2\portal
+12 Jun 2015 14:07:59,164 WARN  ~ You're running Play! in DEV mode
+12 Jun 2015 14:07:59,237 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+12 Jun 2015 14:08:07,668 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+12 Jun 2015 14:08:07,678 INFO  ~ Application 'comercio' is now started !
